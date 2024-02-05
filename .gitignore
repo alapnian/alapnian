@@ -1,4 +1,43 @@
+
+#-------------------------
+# Sass
+#-------------------------
 .sass-cache/
 *.css.map
 *.sass.map
 *.scss.map
+
+#-------------------------
+# NPM
+#-------------------------
+node_modules/
+
+#-------------------------
+# IDE / Development Files
+#-------------------------
+
+# Netbeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+.phpintel
+/api/
+
+# Visual Studio Code
+.vscode/
+
+/results/
+/phpunit*.xml
+/.phpunit.*.cache
