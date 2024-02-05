@@ -27,5 +27,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alapnian/alapnian.git"
+  },
+  "dependencies": {
+    "meta-sass-module": "^1.0.0"
   }
 }
