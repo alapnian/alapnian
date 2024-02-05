@@ -1,0 +1,31 @@
+{
+  "name": "alapnian",
+  "version": "1.0.0",
+  "description": "Awesome front-end framework made in Indonesia",
+  "homepage": "https://alapnian.xviid.net",
+  "author": "Alapnian XVIID <alapnian@xviid.net>",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "alapnian",
+    "html",
+    "javascript",
+    "css",
+    "sass",
+    "scss",
+    "less",
+    "css-framework",
+    "responsive",
+    "mobile-first"
+  ],
+  "bugs": {
+    "url": "https://github.com/alapnian/alapnian/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alapnian/alapnian.git"
+  }
+}
