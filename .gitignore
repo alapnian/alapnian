@@ -17,7 +17,20 @@
 #-------------------------
 # NPM
 #-------------------------
-node_modules/
+node_modules
+npm-debug.log
+
+#-------------------------
+# Build Artifacts
+#-------------------------
+*.lock.json
+*-lock.json
+*.backup
+*.cache
+*.jest
+*.tgz
+dist
+package
 
 #-------------------------
 # IDE / Development Files
